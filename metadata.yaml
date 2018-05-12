@@ -1,0 +1,39 @@
+_repo: The-Nests-and-Eggs-of-Indian-Birds-Volume-1_13117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hume, Allan Octavian
+    alias: Hume, A. O. (Allan Octavian)
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '4843'
+    url: http://www.gutenberg.org/2009/agents/4843
+    wikipedia: http://en.wikipedia.org/wiki/Allan_Octavian_Hume
+  editor:
+    agent_name: Oates, Eugene William
+    birthdate: 1845
+    deathdate: 1911
+    gutenberg_agent_id: '39881'
+    url: http://www.gutenberg.org/2009/agents/39881
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Frederick_Lindley
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Natural History
+gutenberg_issued: '2004-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- India'
+- !lcc 'QL'
+- !lcsh 'Birds -- Nests'
+title: The Nests and Eggs of Indian Birds, Volume 1
+url: http://www.gutenberg.org/ebooks/13117
