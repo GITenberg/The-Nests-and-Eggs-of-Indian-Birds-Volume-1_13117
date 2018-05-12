@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39881
     wikipedia: http://en.wikipedia.org/wiki/Augustus_Frederick_Lindley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13117#The-Nests-and-Eggs-of-Indian-Birds-Volume-1
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Natural History
